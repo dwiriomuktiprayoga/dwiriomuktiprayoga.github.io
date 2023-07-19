@@ -1,0 +1,24 @@
+/* body {
+  min-height: 3000px;
+} */
+
+.jumbotron {
+  padding-top: 10rem;
+  /* padding: 2rem 1rem; */
+  background-color: #705050;
+  color: whitesmoke;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+#project {
+  background-color: #705050;
+  color: whitesmoke;
+}
+
+footer {
+  background-color: #343a40;
+  line-height: 50px;
+}
