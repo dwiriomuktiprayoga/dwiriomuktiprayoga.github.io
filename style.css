@@ -22,3 +22,11 @@ footer {
   background-color: #343a40;
   line-height: 50px;
 }
+
+.galery-img {
+  width: 100%;
+}
+
+#galery .row > * {
+  padding: 0;
+}
